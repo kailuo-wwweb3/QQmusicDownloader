@@ -6,7 +6,7 @@
   "version": "1.0",
 
   "permissions": [
-    "<all_urls>","webRequest","webRequestBlocking", "downloads"
+    "<all_urls>","webRequest","webRequestBlocking", "downloads", "storage"
   ],
   "background": {
     "scripts": ["background.js"],
